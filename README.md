@@ -6,7 +6,7 @@
 
 
 ![data](https://user-images.githubusercontent.com/44195387/141660259-1828a15d-7225-4be8-9b35-71bda5573454.png)
-We receive a `Flat JSON` file from `MIRTH Connect' API`, which is shown in the above image. All the list objects are `Ambiguities` with their current value and all the options provided inside a list.
+We receive a `Flat JSON` file from `MIRTH Connect's API`, which is shown in the above image. All the list objects are `Ambiguities` with their current value and all the options provided inside a list.
 
 
 ![rl](https://user-images.githubusercontent.com/44195387/141660359-91900b6f-9580-4205-aa45-7c28bd4bd321.png)
