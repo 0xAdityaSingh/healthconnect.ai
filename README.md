@@ -2,7 +2,7 @@
 
 ## Healthconnect.ai
 
-#ABOUT
+# ABOUT
 
 
 ![data](https://user-images.githubusercontent.com/44195387/141660259-1828a15d-7225-4be8-9b35-71bda5573454.png)
@@ -17,7 +17,7 @@ This section of the application shows all the `records` in a list, which we can 
 Here, we choose a particular ambiguity and select the value provided through the options provided or by typing in ourselves.
 
 
-#STEPS
+# STEPS
 
 `1. Select a Record from the record list provided and choose the ambiguity you want to correct.`
 
